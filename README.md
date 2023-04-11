@@ -7,7 +7,7 @@
 4. Add a trigger for the Bipod. This can be an InteractBox or pretty much anything.
 
 # Setup the BipodComponent
-ConstructionScript
+## ConstructionScript
 ![grafik](https://user-images.githubusercontent.com/84019236/231219129-6e55b04c-7fba-4d89-88f5-f0b565db3e20.png)
 1. Run the "ConstructionScript" function of the BipodComponent.
 2. Connect the variables as seen in the image. Mesh = the mesh of your gun
@@ -19,7 +19,7 @@ You need to calculate that length yourself. There are triangle calculator websit
 6. Circular Angle Limit: That limits the movement of the gun when the bipod is active in a circular area. Value in Degrees. Leave it at 0 if you want to use the default rectangular limit.
 7. Up/Down Left/Right Limit. That limits the movement of the gun when the bipod is active in a rectangular area. Value in Degrees. These values will always be used if the Circular Angle Limit = 0.
 
-EventGraph
+## EventGraph
 ![grafik](https://user-images.githubusercontent.com/84019236/231223236-9b4b2cf1-475d-4c46-ae89-d6423c6b6830.png)
 Just run the events/set the variables as in the image shown. This example uses an interact box to trigger the bipod.
 
