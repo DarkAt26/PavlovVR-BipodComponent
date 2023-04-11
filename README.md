@@ -21,6 +21,7 @@ You need to calculate that length yourself. There are triangle calculator websit
 
 ## EventGraph
 ![grafik](https://user-images.githubusercontent.com/84019236/231223236-9b4b2cf1-475d-4c46-ae89-d6423c6b6830.png)
+
 Just run the events/set the variables as in the image shown. This example uses an interact box to trigger the bipod.
 
 # The Bipod Mesh/AnimBP
