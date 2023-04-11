@@ -29,6 +29,6 @@ The BipodMesh needs to be an SkeletalMesh and has to be seperate from the gun. T
 
 
 
-## Dm me if you have any questions,... on Discord. [DarkAt26#7075]
+### Dm me if you have any questions,... on Discord. [DarkAt26#7075]
 
-## Special thanks to KENNITHH for his help/testing.
+### Special thanks to KENNITHH for his help/testing.
