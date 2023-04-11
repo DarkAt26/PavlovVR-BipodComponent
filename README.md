@@ -27,6 +27,10 @@ Just run the events/set the variables as in the image shown. This example uses a
 # The Bipod Mesh/AnimBP
 The BipodMesh needs to be an SkeletalMesh and has to be seperate from the gun. The IsBipodActive? variable of the BipodCmponent can be used to trigger the animation(s) in the Animation Blueprint for the BipodMesh.
 
+
+
+
+
 Dm me if you have any questions,... on Discord. [DarkAt26#7075]
 
 Special thanks to KENNITHH for his help/testing.
