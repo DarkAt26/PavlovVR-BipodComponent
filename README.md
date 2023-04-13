@@ -8,9 +8,9 @@
 
 # Setup the BipodComponent
 ## ConstructionScript
-![grafik](https://user-images.githubusercontent.com/84019236/231219129-6e55b04c-7fba-4d89-88f5-f0b565db3e20.png)
+![grafik](https://user-images.githubusercontent.com/84019236/231751396-3235186a-0ec4-410e-b61b-857ced48ce52.png)
 1. Run the "ConstructionScript" function of the BipodComponent.
-2. Connect the variables as seen in the image. Mesh = the mesh of your gun
+2. Connect the variables as seen in the image.
 3. Write the names of the Root and Bipod bone into the name variables.
 4. Bipod Length: The Bipod Length is the length that the bipod has when extended/in use to the ground. (red line)
 ![grafik](https://user-images.githubusercontent.com/84019236/231220768-65f4c105-d0f7-426f-b926-f6a26af8bbca.png)
