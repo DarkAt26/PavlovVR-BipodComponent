@@ -1,5 +1,7 @@
 # PavlovVR-BipodComponent
 
+Made in Unreal Engine 5.1.1
+
 # Add Components
 1. Add the Component "CMP_Bipod" to your gun.
 2. Add two SkeletalMeshComponents to your gun. Name one "Bipod" and the other one Hand. (names dont matter, makes it easier to use)
